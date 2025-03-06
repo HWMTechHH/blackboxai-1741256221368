@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Garet';
+    src: url('fonts/Garet.woff2') format('woff2'),
+         url('fonts/Garet.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Garet', sans-serif;
+}
+
+.bt-player {
+    background-color: #ffffff;
+    border: 1px solid #ca0019;
+}
+
+.bt-player__cta {
+    color: #ca0019;
+}
